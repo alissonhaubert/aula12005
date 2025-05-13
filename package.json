@@ -1,0 +1,14 @@
+{
+  "name": "school2025-2",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev":"servor --reload"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
